@@ -7,7 +7,6 @@ dependencies:
   - catboost
   - dask
   - dill
-  - elephas
   - eli5
   - matplotlib
   - numpy
