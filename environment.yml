@@ -2,10 +2,12 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - beautifulsoup4
-  - bokeh
-  - catboost
-  - dask
+  - numpy
+  - psutil
+  - toolz
+  - matplotlib
   - dill
-  - eli5
-  - gensim
+  - pandas
+  - partd
+  - bokeh
+  - dask
