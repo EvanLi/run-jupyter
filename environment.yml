@@ -9,7 +9,6 @@ dependencies:
   - dill
   - elephas
   - eli5
-  - gensim
   - matplotlib
   - numpy
   - pandas
