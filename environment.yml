@@ -8,11 +8,18 @@ dependencies:
   - dask
   - dill
   - eli5
+  - Keras
+  - lxml
   - matplotlib
   - numpy
   - pandas
   - partd
   - psutil
+  - requests
+  - scikit-learn
+  - scipy
+  - Scrapy
+  - seaborn
   - toolz
 
   
